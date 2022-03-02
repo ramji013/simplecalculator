@@ -6,9 +6,6 @@ public class Calculate {
 		return x + y;
 	}
 
-	/**
-	 * substract two inputs
-	 */
 	public static int subtract(int x, int y) {
 		return x - y;
 	}
